@@ -1,5 +1,5 @@
 # Audit Trail
-####Entitie changes audit
+####Entities changes audit
 
 This is the result of a job interview excercise I was asked to perform.
 

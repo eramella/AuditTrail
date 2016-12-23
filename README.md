@@ -1,7 +1,7 @@
 # Audit Trail
 ####Entities changes audit
 
-This is the result of a job interview excercise I was asked to perform.
+This is the result of a job interview exercise I was asked to perform.
 
 The purpose is to create an automatic system that logs any changes to any entity in your database.
 
